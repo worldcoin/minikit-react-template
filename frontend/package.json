@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/node": "20",
-    "@worldcoin/minikit-js": "0.0.27-internal-alpha",
+    "@worldcoin/minikit-js": "1.1.1",
     "dotenv": "^16.4.5",
     "eruda": "^3.3.0",
     "next-auth": "^4.24.8",
